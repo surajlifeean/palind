@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477689537 source:c:\users\suraj\documents\pali\main.c
+	<stdio.h>
+	<stdlib.h>
+
